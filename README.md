@@ -1,1 +1,3 @@
 # MathChat_VietNamese_Student
+
+Dự án này được thực hiện với mục đích phát triển một hệ thống chatbot hỗ trợ giải toán cho nhóm học sinh cấp 3 ở Việt Nam bằng việc tận dụng sức mạnh của hệ thống RAG (Retrieval-Augmented Generation System) được thiết kế chuyên biệt cùng với khả năng xử lý ngôn ngữ tiếng việt tốt của API Gemini. Hệ thống chatbot được tạo ra có hai chức năng chính là giải bài toán cấp 3 mà người dùng đưa vào và đưa ra được tài liệu liên quan như lý thuyết, công thức tính toán liên quan tới bài toán đó cũng như những bài toán tương tự với mục đích củng cố kiến thức dạng toán cho người dùng với lời giải hợp lí nhất dựa vào kho dữ liệu có sẵn.
